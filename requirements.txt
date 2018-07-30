@@ -1,0 +1,8 @@
+keras
+faker
+tqdm
+babel
+nltk
+graphviz
+pydot-ng
+pydot
