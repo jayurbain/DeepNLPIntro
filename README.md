@@ -1,9 +1,16 @@
 # DeepNLPIntro  
-Deep learning using RNN, CNN, and LSTM for Natural Language Processing
+Hands on introduction to Deep learning for NLP using MLP, CNN, and RNN/LSTM for language classificatin and translation.  
 
 ### Topic Outline  
-- Deep Learning
-- NLP, why NLP is hard
+[Deep Learning](slides/1&#32Deep&#32Learning&#32Introduction.pdf)  
+- Deep Learning Concepts   
+- Instructions for running labs  
+
+[Text Classification](slides/2&#32NLP&#32Text&#32Classification)  
+- NLP, why NLP is hard  
+- Embeddings  
+- Neural architectures for NLP   
+- Context for Lab 1 - Sentiment Classification   
 
 #### Lab 1 – Sentiment Classification  
 - Text classification  
@@ -11,16 +18,29 @@ Deep learning using RNN, CNN, and LSTM for Natural Language Processing
 - Embeddings  
 - Network architectures: MLP, CNN, RNN   
 - Model development and evaluation, review  
+- [Sentiment Classification Notebook](Text&#32Classification/SentimentClassification.ipynb)  
+
+[Text Translation](slides/3&#32NLP&#32Text&#32Translations.pdf)    
+- Encoder - decoder   
+- Bidirectional LSTM  
+- Attention  
+- Neural architectures for NLP   
+- Context for Lab 2 - Date Translation   
 
 #### Lab 2 – Date translation  
 - Encoder-decoder  
 - Attention  
 - Network architecture: LSTM with attention  
 - Model development and evaluation, review  
-
+- [Text Translation Notebook](Text&#32Translation/TextTranslation.ipynb)  
 
 ### Running the NLP workshop labs
 
+#### Google Collab (recommended)
+
+Detailed instructions can be found in the intro slides: [Deep Learning](slides/1&#32Deep&#32Learning&#32Introduction.pdf) 
+
+#### Docker
 1) Install Docker CE  
 https://www.docker.com/community-edition   
 
