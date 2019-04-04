@@ -6,7 +6,7 @@ Hands on introduction to Deep learning for NLP using MLP, CNN, and RNN/LSTM for 
 - Deep Learning Concepts   
 - Instructions for running labs  
 
-[Text Classification](slides/2%20NLP%20Text%20Classification)  
+[Text Classification](slides/2%20NLP%20Text%20Classification.pdf)  
 - NLP, why NLP is hard  
 - Embeddings  
 - Neural architectures for NLP   
@@ -38,7 +38,7 @@ Hands on introduction to Deep learning for NLP using MLP, CNN, and RNN/LSTM for 
 
 #### Google Collab (recommended)
 
-Detailed instructions can be found in the intro slides: [Deep Learning](slides/1%20Deep%20Learning%20Introduction.pdf) 
+Detailed instructions can be found in the intro slides: [Deep Learning](slides/1%20Deep%20Learning%20Introduction.pdf). Scroll ahead to "Running NLP Workshop Labs."    
 
 #### Docker
 1) Install Docker CE  
