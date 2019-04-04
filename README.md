@@ -2,11 +2,11 @@
 Hands on introduction to Deep learning for NLP using MLP, CNN, and RNN/LSTM for language classificatin and translation.  
 
 ### Topic Outline  
-[Deep Learning](slides/1&#32Deep&#32Learning&#32Introduction.pdf)  
+[Deep Learning](slides/1%20Deep%20Learning%20Introduction.pdf)  
 - Deep Learning Concepts   
 - Instructions for running labs  
 
-[Text Classification](slides/2&#32NLP&#32Text&#32Classification)  
+[Text Classification](slides/2%20NLP%20Text%20Classification)  
 - NLP, why NLP is hard  
 - Embeddings  
 - Neural architectures for NLP   
@@ -18,9 +18,9 @@ Hands on introduction to Deep learning for NLP using MLP, CNN, and RNN/LSTM for 
 - Embeddings  
 - Network architectures: MLP, CNN, RNN   
 - Model development and evaluation, review  
-- [Sentiment Classification Notebook](Text&#32Classification/SentimentClassification.ipynb)  
+- [Sentiment Classification Notebook](Text%20Classification/SentimentClassification.ipynb)  
 
-[Text Translation](slides/3&#32NLP&#32Text&#32Translations.pdf)    
+[Text Translation](slides/3%20NLP%20Text%20Translations.pdf)    
 - Encoder - decoder   
 - Bidirectional LSTM  
 - Attention  
@@ -32,13 +32,13 @@ Hands on introduction to Deep learning for NLP using MLP, CNN, and RNN/LSTM for 
 - Attention  
 - Network architecture: LSTM with attention  
 - Model development and evaluation, review  
-- [Text Translation Notebook](Text&#32Translation/TextTranslation.ipynb)  
+- [Text Translation Notebook](Text%20Translation/TextTranslation.ipynb)  
 
 ### Running the NLP workshop labs
 
 #### Google Collab (recommended)
 
-Detailed instructions can be found in the intro slides: [Deep Learning](slides/1&#32Deep&#32Learning&#32Introduction.pdf) 
+Detailed instructions can be found in the intro slides: [Deep Learning](slides/1%20Deep%20Learning%20Introduction.pdf) 
 
 #### Docker
 1) Install Docker CE  
